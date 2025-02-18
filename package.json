@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:react-bootstrap/react-router-bootstrap.git"
+    "url": "git@github.com:timcnicholls/react-router-bootstrap.git"
   },
   "keywords": [
     "react",
@@ -33,9 +33,9 @@
   },
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/react-bootstrap/react-router-bootstrap/issues"
+    "url": "https://github.com/timcnicholls/react-router-bootstrap/issues"
   },
-  "homepage": "https://github.com/react-bootstrap/react-router-bootstrap",
+  "homepage": "https://github.com/timcnicholls/react-router-bootstrap",
   "peerDependencies": {
     "react": ">=16.13.1",
     "react-router-dom": ">=6.0.0"
